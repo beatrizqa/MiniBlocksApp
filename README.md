@@ -41,9 +41,27 @@ Exhibitions Halls (where you can see the items created)
 5. Photos 
 
 RELATIONSHIPS ????????
+a.	An item can be sold by many Companies ==> 1 to many
+b.	A Company can sell many Items ==> 1 to many
 
  
 
+4.	USER STORIES
+  a.	Create a database & tables
+    i.	As the owner I want to create a database so I can organise and keep a record of my items
+    ii.	As the owner I want to create tables so I can hold the information for my items
+  b.	Create a new repo in GitHUb
+    i.	As the project owner I want to create a repo in Github so I can keep all my documentation accessible and be able to share it.
+  c.	Website 
+    i.	As the project owner I want to have a website so I can CRUD my items
+  d.	Creating Items
+    i.	As a user I want to click on a button so I can create entries
+  e.	Reading Items
+    i.	As a user I want to click on a button so I can search for items and sort them in any way I want
+  f.	Updating items
+    i.	As a user I want to click on a button so I can update my items
+  g.	Delete items
+    i.	As a user I want to click on a button so I can delete items I do not longer have
  
 
  
