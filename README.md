@@ -1,11 +1,59 @@
-# MiniBlocksApp
+# MiniBlocks Exhibitions App
 
-This application will allow you to login and do the following:
-  1. Go to items page and be able to create, sort, update and delete items 
-  2. Got to Exhibitions page and be able to create new exhibition, sort, update list items or dates and delete items or exhibitions 
+This application will allow you to:
+  1. Create a user account
+  2. login
+      
+  4. You will be presented with 2 options
+        1. Items
+             1. Create and Item (you will have to enter the following)
+                  1. Item ID will be automatically added by DB
+                  2. Name 
+                  3. Age Level 
+                  4. Difficulty Level 
+                  5. Number Of Pieces
+                  6. DateBuilt
+                  7. Photo
+                  8. OverallComments 
+             2. Sort through the items (READ)
+                  1. It will have a 'choose item' field
+                      1. Enter the name of the item we are looking for, or
+                      2. Dropdown list 
+             3. Update the records
+                  1. Dropdown list
+                  2. ?????????????
+             4. Delete any items
+                  1. Dropdown list
+                  2. Delete buttom
+        2. Exhibitions
+            1. CRUD
+                1. Create a Hall (where you can see the items created)
+                    1. ID 
+                    2. Name 
+                    3. Description 
+                    4. ItemsList 
+                    5. Photos
+            2. Halls
+                    1. Coose what Hall Exhibition you want to see
+                        1. dropdown list with Halls' names
+                        2. (wish list) if chosen a Hall, it will show the items for the Exhibition and dates and locations
+                    2.  Dates
+                        1.dropdown list with the dates available
+                        2.(wishlist) it will show all Halls and locations
+                   3. Locations
+                        1. dropdown list with locations availables
+                        2. (wishlist) it will show all Halls and dates    
+ 
 
 TABLES 
- 
+
+Create a user account (CREATE) with:
+  1. First Name
+  2. Last Name
+  3. Email
+  4. Password
+
+
 Companies I buy the items from 
 1. ID  --> PH 
 2. Name  
