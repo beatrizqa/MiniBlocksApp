@@ -37,8 +37,6 @@ This application will allow you to:
          * Create a Hall (where you can see the items built)
          * 
 
-Create a Hall (where you can see the items created)  
-
 ID  
 
 Name  
