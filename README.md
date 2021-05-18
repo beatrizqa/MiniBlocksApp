@@ -1,10 +1,86 @@
 # MiniBlocks Exhibitions App
 
-This application will allow you to:
-  1. Create a user account
-  2. login
-      
-  4. You will be presented with 2 options
+This application will allow you to: 
+  1. Create a user account 
+    * You will need to enter 
+      1. First name 
+      2. Last name
+      3. Email
+      4. Password 
+    * You will have a ‘login’ button 
+    * You will have a ‘cancel’ button 
+  2. Login     
+  3. On the home page you will be presented with 2 options
+    *  Items 
+        1. CREATE: Create and Item (you will have to enter the following)
+          * Item ID will be automatically added by DB  
+          * Name 
+          * Age Level
+          * Difficulty Level
+          * Number Of Pieces
+          * Date item was built 
+          * Photo
+          * Comments
+      2. READ: Sort through the items
+        * It will have a 'choose item' field
+            * Enter the name of the item we are looking for, or
+            * Dropdown list
+        * It will return the item name, a photo and no of pieces 
+      3. UPDATE: Update the records  
+         * Dropdown list  
+         * ???????????
+      4. DELETE: Delete any items
+         * Dropdown list  
+         * Delete button
+    *  Exhibitions 
+       1. CRUD (Can’t think of a name at present)  
+         * Create a Hall (where you can see the items built)
+         * 
+
+Create a Hall (where you can see the items created)  
+
+ID  
+
+Name  
+
+Description  
+
+ItemsList  
+
+Photos 
+
+HALLS  
+
+Coose what Hall Exhibition you want to see  
+
+dropdown list with Halls' names  
+
+(Wish list) if chosen a Hall, it will show the items for the Exhibition and dates and locations  
+
+Dates  
+
+dropdown list with the dates available   
+
+Page Break
+ 
+
+(Wish list) it will show all Halls and locations   
+
+Locations  
+
+dropdown list with locations available  
+
+(Wish list) it will show all Halls and dates     
+
+
+
+
+
+
+
+
+
+5. You will be presented with 2 options
         1. Items
              1. Create and Item (you will have to enter the following)
                   1. Item ID will be automatically added by DB
