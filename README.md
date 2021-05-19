@@ -3,8 +3,7 @@
 ## Description
 
 This is CRUD application that allows you to:
-
- 1. Create a user account 
+  1. Create a user account 
     * You will need to enter 
       1. First name 
       2. Last name
@@ -13,9 +12,10 @@ This is CRUD application that allows you to:
     * You will have a ‘login’ button 
     * You will have a ‘cancel’ button 
     
-2. Login  
+  2. Login     
 
-3. On the home page you will be presented with 2 options
+  3. On the home page you will be presented with 2 options
+
     *  Items 
         1. CREATE: Create and Item (you will have to enter the following)
           * Item ID will be automatically added by DB  
